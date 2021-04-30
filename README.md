@@ -9,5 +9,5 @@ the various types of algorithms provided by sklearn which were Decision Tree, K-
 After the aglorithms were implemented the results of the variation in bag of words was then graphed for output.
 
 
--Below is the project after it has run and given the proper output
+-Below is the project after it has executed and given the proper output
 ![DM_project2](https://user-images.githubusercontent.com/78278901/116634196-68af3c00-a929-11eb-88e8-c5556ac394b0.gif)
