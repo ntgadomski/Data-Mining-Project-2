@@ -6,7 +6,7 @@ plotting the results from the given CSV file. The CSV file provided by the class
 our group had to filter each review from their ratings of high, medium, and low.
 Once the CSV was properly filtered and loaded into the spyder IDE then our group proceeded to implement
 the various types of algorithms provided by sklearn which were Decision Tree, K-NN, Keras, and Naive Bayes.
-After the aglorithms were implemented the results of the variations and training variations between each individual
+After the aglorithms were implemented the results of the validations and training validations between each individual
 word within the reviews were graphed.
 
 
