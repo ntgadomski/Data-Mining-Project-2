@@ -5,8 +5,9 @@ This project was created for the purpose of testing and implementing various dat
 plotting the results from the given CSV file. The CSV file provided by the class is about rotten tomato reviews and
 our group had to filter each review from their ratings of high, medium, and low.
 Once the CSV was properly filtered and loaded into the spyder IDE then our group proceeded to implement
-the various types of algorithms provided by sklearn which were Decision Tree, K-NN, and Naive Bayes.
-After the aglorithms were implemented the results of the variation in bag of words was then graphed for output.
+the various types of algorithms provided by sklearn which were Decision Tree, K-NN, Keras, and Naive Bayes.
+After the aglorithms were implemented the results of the variations and training variations between each individual
+word within the reviews were graphed.
 
 
 -Below is the project after it has executed and given the proper output
