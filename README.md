@@ -1,6 +1,7 @@
 # Data-Mining-Project-2
 Knowledge Disc. & Data Mining
 Course number: CAP 4770
+
 This project was created for the purpose of testing and implementing various data mining algorithms while
 plotting the results from the given CSV file. The CSV file provided by the class is about rotten tomato reviews and
 our group had to filter each review from their ratings of high, medium, and low.
